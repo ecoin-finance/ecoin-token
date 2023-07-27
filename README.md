@@ -20,13 +20,13 @@ The Ecoin Finance Token contract is implemented in Solidity and follows best pra
 # Files
 > This repository includes the following files:
 
-- AttributeMap.sol:  Initial version - Last year
-- Authorized.sol: Initial version - Last year
-- ERC20.sol: Initial version - Last year
-- Ecoin.sol: Initial version - Last year
-- GasHelper.sol: Initial version - Last year
-- IPancake.sol: Initial version - Last year
-- SwapHelper.sol: Initial version - Last year
+- [AttributeMap.sol]([https://pages.github.com/](https://github.com/ecoin-finance/ecoin-token/blob/master/solidity/AttributeMap.sol)) :  Initial version - Last year
+- **Authorized.sol**: Initial version - Last year
+- **ERC20.sol**: Initial version - Last year
+- **Ecoin.sol**: Initial version - Last year
+- **GasHelper.sol**: Initial version - Last year
+- **IPancake.sol**: Initial version - Last year
+- **SwapHelper.sol**: Initial version - Last year
 
 # Contributing
 We welcome contributions from the community to improve the Ecoin Finance Token contract. If you have identified issues, want to propose enhancements, or want to report bugs, please open a new issue in this repository. For contributing code changes, please fork the repository and submit a pull request.
