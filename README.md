@@ -33,6 +33,9 @@ We welcome contributions from the community to improve the Ecoin Finance Token c
 
 Before contributing, make sure to review the Contributing Guidelines.
 
+# Code of Conduct
+We expect all contributors and participants in the Ecoin Finance Token project to adhere to the Code of Conduct. This code outlines our expectations for respectful and inclusive behavior within the community.
+
 # License
 The Ecoin Finance Token contract is open-source software licensed under the MIT License. You are free to use, modify, and distribute the code following the terms and conditions of the license.
 
