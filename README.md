@@ -16,3 +16,26 @@ This repository contains the Solidity smart contract code that governs the ECOIN
 
 # Smart Contract Overview
 The Ecoin Finance Token contract is implemented in Solidity and follows best practices to ensure security and efficiency. The main components of the contract include:
+
+# Files
+> This repository includes the following files:
+
+- AttributeMap.sol:  Initial version - Last year
+- Authorized.sol: Initial version - Last year
+- ERC20.sol: Initial version - Last year
+- Ecoin.sol: Initial version - Last year
+- GasHelper.sol: Initial version - Last year
+- IPancake.sol: Initial version - Last year
+- SwapHelper.sol: Initial version - Last year
+
+# Contributing
+We welcome contributions from the community to improve the Ecoin Finance Token contract. If you have identified issues, want to propose enhancements, or want to report bugs, please open a new issue in this repository. For contributing code changes, please fork the repository and submit a pull request.
+
+Before contributing, make sure to review the Contributing Guidelines.
+
+# License
+The Ecoin Finance Token contract is open-source software licensed under the MIT License. You are free to use, modify, and distribute the code following the terms and conditions of the license.
+
+Thank you for your interest in the Ecoin Finance Token (ECOIN) Solidity Contract! If you have any questions or need further assistance, please don't hesitate to reach out to the Ecoin Finance team or create an issue in this repository. 
+
+Happy coding!
